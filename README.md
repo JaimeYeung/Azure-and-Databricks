@@ -2,8 +2,8 @@
 This is the final project for MSCA 32021 Machine Learning Operations
 #
 The objective of this project is to comapre different MLOps platforms, Microsoft Azure and Databricks in the following metrics:
-Team collaboration such as CI/CD
-Agile ML
+*Team collaboration such as CI/CD
+*Agile ML
 Experiment pipelines
 Continuous training
 Data versioning
