@@ -1,5 +1,5 @@
 # Azure-and-Databricks-Pipeline
-This is the final project for MSCA 32021 Machine Learning Operations
+This is the final project for MScA 32021 Machine Learning Operations
 #
 The objective of this project is to comapre different MLOps platforms, Microsoft Azure and Databricks in the following metrics:
 * Team collaboration such as CI/CD
